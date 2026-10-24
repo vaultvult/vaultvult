@@ -25,4 +25,4 @@ I am a Web3 Security Researcher and Smart Contract Auditor specializing in vulne
 - **Twitter**: [@tradarsoy](https://twitter.com/tradarsoy)
 - **Immunefi/Cantina/DoraHacks/Sherlock**: vaultvult
 ### ✍️ Latest Articles
-* **[How I Found a High-Severity Rounding Vulnerability in Morpho Midnight](LINK_TO_YOUR_DEV_TO_POST)**: A deep dive into a `mulDivDown` rounding bug that allows attackers to artificially inflate LTV and liquidate collateral.
+* **[How I Found a High-Severity Rounding Vulnerability in Morpho Midnight](https://dev.to/vaultvult/how-i-found-a-high-severity-rounding-vulnerability-in-morpho-midnight-tenor-labs-35c2)**: A deep dive into a `mulDivDown` rounding bug that allows attackers to artificially inflate LTV and liquidate collateral.
