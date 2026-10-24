@@ -13,10 +13,13 @@ I am a Web3 Security Researcher and Smart Contract Auditor specializing in vulne
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 ### 🔍 What I Do
 - **Smart Contract Auditing**: Deep-dive code reviews for logic flaws, access control bypasses, and economic exploits.
-- **PoC Development**: Writing runnable exploits (Foundry for Solidity, Rust/Anchor for Solana) to prove vulnerabilities.
+- **PoC Development**: Writing runnable exploits (Foundry for Solidity, Rust for Solana) to prove vulnerabilities.
+- **Code Remediation & Debugging**: Analyzing vulnerable codebases, isolating root causes, and writing secure patches to mitigate exploits.
 - **Security Research**: Actively participating in bug bounties (Cantina, Sherlock) and audit contests.
+
 
 ### 📬 Connect with Me
 - **Twitter**: [@tradarsoy](https://twitter.com/tradarsoy)
