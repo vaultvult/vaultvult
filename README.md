@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Vault Vult
 
-<!--
-**vaultvult/vaultvult** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Web3 Security Researcher and Smart Contract Auditor specializing in vulnerability discovery across EVM (Solidity) and Solana (Rust/Anchor). 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I Do
+- **Smart Contract Auditing**: Deep-dive code reviews for logic flaws, access control bypasses, and economic exploits.
+- **PoC Development**: Writing runnable exploits (Foundry for Solidity, Rust/Anchor for Solana) to prove vulnerabilities.
+- **Security Research**: Actively participating in bug bounties (Cantina, Sherlock) and audit contests.
+
+### 📬 Connect with Me
+- **Twitter**: [@tradarsody](https://twitter.com/tradarsody)
+- **Cantina/Sherlock**: vaultvult
