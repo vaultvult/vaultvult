@@ -19,5 +19,5 @@ I am a Web3 Security Researcher and Smart Contract Auditor specializing in vulne
 - **Security Research**: Actively participating in bug bounties (Cantina, Sherlock) and audit contests.
 
 ### 📬 Connect with Me
-- **Twitter**: [@tradarsody](https://twitter.com/tradarsody)
+- **Twitter**: [@tradarsoy](https://twitter.com/tradarsoy)
 - **Cantina/Sherlock**: vaultvult
