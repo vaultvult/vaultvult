@@ -23,4 +23,4 @@ I am a Web3 Security Researcher and Smart Contract Auditor specializing in vulne
 
 ### 📬 Connect with Me
 - **Twitter**: [@tradarsoy](https://twitter.com/tradarsoy)
-- **Cantina/Sherlock**: vaultvult
+- **Immunefi/Cantina/Sherlock**: vaultvult
