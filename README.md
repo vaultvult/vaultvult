@@ -24,8 +24,7 @@ I am a Web3 Security Researcher and Smart Contract Auditor specializing in vulne
 ### 🌐 Connect with Me
 * Twitter: [@tradarsoy](https://twitter.com/tradarsoy)
 
-###
-**Find me on:**
+### 🔍 Find me on:
 <a href="https://immunefi.com/profile/vaultvult/"><img src="https://img.shields.io/badge/Immunefi-vaultvult-white?style=flat-square" alt="Immunefi"></a>
 <a href="https://cantina.xyz/u/vaultvult"><img src="https://img.shields.io/badge/Cantina-vaultvult-blue?style=flat-square" alt="Cantina"></a>
 <a href="https://dorahacks.io/hacker/vaultvult"><img src="https://img.shields.io/badge/DoraHacks-vaultvult-orange?style=flat-square" alt="DoraHacks"></a>
