@@ -23,10 +23,11 @@ I am a Web3 Security Researcher and Smart Contract Auditor specializing in vulne
 
 ### 🌐 Connect with Me
 * Twitter: [@tradarsoy](https://twitter.com/tradarsoy)
-* 🛡️ **Security Profiles:** <a href="https://github.com/vaultvult" target="_blank"><img src="https://img.shields.io/badge/VAULTVULT-Security_Researcher-blueviolet?style=for-the-badge&logo=target" alt="vaultvult" /></a>
-<a href="https://www.youtube.com/playlist?list=PLOOlMcSloMTs" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Watch_My_Web3_Portfolio-red?style=for-the-badge&logo=youtube" alt="YouTube Playlist" />
-</a>
+**Find me on:**
+<a href="https://immunefi.com/profile/vaultvult/"><img src="https://img.shields.io/badge/Immunefi-vaultvult-white?style=flat-square" alt="Immunefi"></a>
+<a href="https://cantina.xyz/u/vaultvult"><img src="https://img.shields.io/badge/Cantina-vaultvult-blue?style=flat-square" alt="Cantina"></a>
+<a href="https://dorahacks.io/hacker/vaultvult"><img src="https://img.shields.io/badge/DoraHacks-vaultvult-orange?style=flat-square" alt="DoraHacks"></a>
+<a href="https://audits.sherlock.xyz/watson/vaultvult"><img src="https://img.shields.io/badge/Sherlock-vaultvult-purple?style=flat-square" alt="Sherlock"></a>
 
 
 ### ✍️ Latest Articles
