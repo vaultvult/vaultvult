@@ -25,5 +25,11 @@ I am a Web3 Security Researcher and Smart Contract Auditor specializing in vulne
 - **Twitter**: [@tradarsoy](https://twitter.com/tradarsoy)
 - **Immunefi/Cantina/DoraHacks/Sherlock/dev.to**: vaultvult
 - **YT Tracks**: https://www.youtube.com/playlist?list=PLO0lMcsIoMTs
+
+
 ### ✍️ Latest Articles
-* **[How I Found a High-Severity Rounding Vulnerability in Morpho Midnight](https://dev.to/vaultvult/how-i-found-a-high-severity-rounding-vulnerability-in-morpho-midnight-tenor-labs-35c2)**: A deep dive into a `mulDivDown` rounding bug that allows attackers to artificially inflate LTV and liquidate collateral.
+<a href="https://dev.to/vaultvult">
+  <img src="https://img.shields.io/badge/Dev.to-Read_My_Latest_Posts-black?style=for-the-badge&logo=dev.to" alt="Dev.to Profile" />
+</a>
+
+I write deep dives on smart contract vulnerabilities, Web3 security, and AI agent development. Head over to my **[Dev.to Profile](https://dev.to/vaultvult)** to read all my posts.
