@@ -1,39 +1,42 @@
-# 👋 Hi, I'm Vault Vult
+# Emmanuel Williams
+**Web3 Developer & Smart Contract Security Researcher**
 
-I am a Web3 Security Researcher and Smart Contract Auditor specializing in vulnerability discovery across EVM (Solidity) and Solana (Rust/Anchor). 
+📍 Nigeria | 🐦 [@tradarsoy](https://twitter.com/tradarsoy) | 💻 [github.com/vaultvult](https://github.com/vaultvult) | ✍️ [dev.to/vaultvult](https://dev.to/vaultvult)
 
-### 🛠️ Tech Stack & Tools
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)
-![Move](https://img.shields.io/badge/Move-000000?style=for-the-badge&logo=move&logoColor=white)
-![Cairo](https://img.shields.io/badge/Cairo-000000?style=for-the-badge&logo=cairo&logoColor=white)
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
-![Vyper](https://img.shields.io/badge/Vyper-000000?style=for-the-badge&logo=vyper&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=rust&logoColor=white)
+---
 
-### 🔍 What I Do
-- **Smart Contract Auditing**: Deep-dive code reviews for logic flaws, access control bypasses, and economic exploits.
-- **PoC Development**: Writing runnable exploits (Foundry for Solidity, Rust for Solana) to prove vulnerabilities.
-- **Code Remediation & Debugging**: Analyzing vulnerable codebases, isolating root causes, and writing secure patches to mitigate exploits.
-- **Security Research**: Actively participating in bug bounties (Cantina, Sherlock) and audit contests.
+## PROFESSIONAL SUMMARY
+Multi-chain Web3 Developer and Security Researcher specializing in Real-World Asset (RWA) tokenization, DePIN architectures, and smart contract security. Experienced in building end-to-end decentralized applications on EVM chains (Base, Ethereum) using Foundry, Next.js, and Wagmi. Proven track record of implementing secure financial vaults, integrating Account Abstraction (Privy), and securing smart contracts against reentrancy attacks. Finalist in the W3Node Global Hackathon (Top 4 out of 7 in the Real-World Assets track).
 
+---
 
-### 🌐 Connect with Me
-* Twitter: [@tradarsoy](https://twitter.com/tradarsoy)
+## FEATURED PROJECTS
 
-### 🔍 Find me on:
-- <a href="https://immunefi.com/profile/vaultvult/"><img src="https://img.shields.io/badge/Immunefi-vaultvult-white?style=flat-square" alt="Immunefi"></a>
-- <a href="https://cantina.xyz/u/vaultvult"><img src="https://img.shields.io/badge/Cantina-vaultvult-blue?style=flat-square" alt="Cantina"></a>
-- <a href="https://dorahacks.io/hacker/vaultvult"><img src="https://img.shields.io/badge/DoraHacks-vaultvult-orange?style=flat-square" alt="DoraHacks"></a>
-- <a href="https://audits.sherlock.xyz/watson/vaultvult"><img src="https://img.shields.io/badge/Sherlock-vaultvult-purple?style=flat-square" alt="Sherlock"></a>
+### ⚡ SHS DePIN Network | *Founder & Lead Developer*
+*Built for the W3Node Hackathon - Finalist (4th Place)*
+*   **Project Overview:** Architected a decentralized physical infrastructure network (DePIN) that tokenizes physical solar panels in Africa into fractional Real-World Assets (RWAs).
+*   **Smart Contract Architecture:** Developed a robust suite of Solidity contracts using Foundry and deployed them to Base Sepolia. Implemented ERC-721 Asset Tokenization, an Operator Allowlist, and a Device Freeze function.
+*   **Fractional Yield Vault:** Engineered a custom `SolarVault` smart contract that automatically splits consumer energy payments (90% to the hardware operator, 10% to the investor yield vault), allowing fractional RWA investors to claim proportional yield.
+*   **Web2 Onboarding (UX):** Integrated **Privy** for invisible wallet creation. Rural consumers can log in via email and pay for solar energy using USDC without ever needing MetaMask.
+*   **Security Optimization:** Identified and resolved a critical reentrancy vulnerability in the payment loop by strictly applying the Checks-Effects-Interactions pattern.
+*   **Role-Based Access Control:** Implemented strict frontend and on-chain RBAC, ensuring admin dashboards and oracle functions are restricted to the contract owner.
+*   **Links:** [Live App](https://shs-depin-mvp.vercel.app) | [GitHub Repo](https://github.com/vaultvult/shs-depin-mvp)
 
+### 🛡️ Multi-Chain Security Research & Auditing
+*   **Solana Rust Exploits:** Developed PoC exploits for an integer underflow (DoS) in `buy_exact_sol_in` and missing access control vulnerabilities.
+*   **TS EVM Recon Bot:** Built an automated TypeScript reconnaissance script to analyze live EVM contracts for dangerous configurations (e.g., paused states, ownership).
+*   **Move Secure Vault:** Developed a capability-based asset vault on Aptos/Sui utilizing `OwnerCapability` resources and phantom types.
+*   **Cairo Access Control:** Built a role-based access control system on StarkNet with strict admin gating.
+*   **Vyper Secure Escrow:** Gas-optimized, reentrancy-safe escrow contract leveraging Vyper's built-in `@nonreentrant` guard.
 
-### ✍️ Latest Articles
-<a href="https://dev.to/vaultvult">
-  <img src="https://img.shields.io/badge/Dev.to-Read_My_Latest_Posts-black?style=for-the-badge&logo=dev.to" alt="Dev.to Profile" />
-</a>
+### 🤖 AI & Infrastructure
+*   **Sentinel AI:** Built an AI-agent-based automated trading system (Python) that performs real-time smart contract vulnerability scans before executing DeFi trades.
+*   **Rencfs:** Developed a modular, encrypted file system in Rust utilizing FUSE and audited AEAD cryptography primitives. Featured as Crate of the Week in *This Week in Rust*.
 
-I write deep dives on smart contract vulnerabilities, Web3 security, and AI agent development. Head over to my **[Dev.to Profile](https://dev.to/vaultvult)** to read all my posts.
+---
+
+## CORE TECHNICAL SKILLS
+*   **Languages:** Solidity, Vyper, Rust, Move, Cairo, TypeScript, Python, Go
+*   **Frameworks & Tools:** Foundry, Hardhat, Next.js, Wagmi, Viem, React
+*   **Web3 Infrastructure:** Privy (Account Abstraction), Oracle Simulation, ERC-20, ERC-721, ERC-4626 (Vaults)
+*   **Security:** Reentrancy Prevention (CEI), Access Control, Merkle Proofs, Static Analysis
