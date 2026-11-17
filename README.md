@@ -1,7 +1,7 @@
 # Emmanuel Williams
 **Web3 Developer & Smart Contract Security Researcher**
 
-📍 Nigeria | 🐦 [@tradarsoy](https://twitter.com/tradarsoy) | 💻 [github.com/vaultvult](https://github.com/vaultvult) | ✍️ [dev.to/vaultvult](https://dev.to/vaultvult)
+📍 Nigeria | 🐦 [@tradarsoy](https://twitter.com/tradarsoy) | 💻 [github.com/vaultvult](https://github.com/vaultvult) | ✍️ [dev.to/tradarsoy](https://dev.to/tradarsoy)
 
 ---
 
